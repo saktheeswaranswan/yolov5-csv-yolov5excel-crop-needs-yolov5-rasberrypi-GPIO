@@ -1,0 +1,8 @@
+This code will use the time.strftime("%I:%M %p") function to get the current time in the format "3:45 PM". The timestamp will be used for both the CSV and the image file names. The code will also wait for 0.1 second between each iteration of the object detection loop using cv2.waitKey(100).
+
+#pip install torch
+#pip install torchvision
+#pip install numpy
+#pip install opencv-python
+#pip install pandas
+#pip install yolov5
