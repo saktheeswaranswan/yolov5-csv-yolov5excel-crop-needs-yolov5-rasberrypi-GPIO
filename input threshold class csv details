@@ -1,0 +1,21 @@
+Sure! Here are the sample contents for the threshold.csv and classes.csv files:
+
+threshold.csv:
+
+arduino
+Copy code
+class,threshold
+cat,5
+dog,3
+classes.csv:
+
+arduino
+Copy code
+class,start_time
+cat,2023-07-05 09:00:00
+dog,2023-07-05 10:30:00
+In the threshold.csv file, we specify the threshold values for each class. For example, the threshold for the "cat" class is set to 5, and the threshold for the "dog" class is set to 3.
+
+In the classes.csv file, we specify the starting times for each class. For example, the "cat" class is set to start at 2023-07-05 09:00:00, and the "dog" class is set to start at 2023-07-05 10:30:00.
+
+Please note that these are just sample values, and you can modify them according to your specific requirements. Make sure to adjust the file paths in the code to match the location of these files on your system.

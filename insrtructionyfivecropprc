@@ -1,0 +1,7 @@
+Please make sure you have the following files in the same directory as the code:
+
+yolov5s.pt (YOLOv5 model weights)
+data/coco128.yaml (dataset configuration)
+class_mapping.csv (CSV file mapping class names to numbers)
+threshold.csv (CSV file defining the start and end time thresholds for cropping)
+Adjust the file paths and names according to your specific requirements.
