@@ -1,0 +1,12 @@
+To run the modified code on a Raspberry Pi, you will need the following libraries:
+
+torch: Install PyTorch library using the command pip install torch
+torchvision: Install torchvision library using the command pip install torchvision
+numpy: Install numpy library using the command pip install numpy
+opencv-python: Install OpenCV library using the command pip install opencv-python
+pandas: Install pandas library using the command pip install pandas
+yolov5: Install yolov5 library using the command pip install yolov5
+RPi.GPIO: Install RPi.GPIO library using the command pip install RPi.GPIO
+Ensure that you have an internet connection on your Raspberry Pi and run the commands in the terminal to install these libraries.
+
+Remember to also connect the red and green LEDs to the appropriate GPIO pins on the Raspberry Pi and modify the code to use the correct pin numbers for your setup.
